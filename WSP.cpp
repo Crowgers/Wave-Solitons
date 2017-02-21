@@ -1,6 +1,5 @@
-// Cormac Rogers - 09427759 - PHYC 30310 Advanced Laboratories for T.P. 
-  // Water Wave Solitons :
-  // This program reads in voltages from a 12 bit dual AtoD convertor and writes them to a file.
+// Water Wave Solitons :
+// This program reads in voltages from a 12 bit dual AtoD convertor and writes them to a file.
 // Standard Libraries.
 #include <iostream> 
 #include <fstream>
